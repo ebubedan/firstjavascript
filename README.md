@@ -1,0 +1,2 @@
+# firstjavascript
+first javascript assesment
